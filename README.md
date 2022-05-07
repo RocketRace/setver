@@ -1,6 +1,6 @@
 ![SetVer Logo](https://raw.githubusercontent.com/RocketRace/setver/main/logo.png)
 
-* The modern landscape of software development is hectic and unforgiving. Dependency hell, management hell, Jira (which is a hell of its own)... It's impossible to maintain order — or to maintain a project — without a sufficiently rigid foundation, else your whole team crumbles apart. You need to pick something solid to base your project on... So *why not pick the most solid foundation of them all?* ***Why not pick set theory?***
+The modern landscape of software development is hectic and unforgiving. Dependency hell, management hell, Jira (which is a hell of its own)... It's impossible to maintain order — or to maintain a project — without a sufficiently rigid foundation, else your whole team crumbles apart. You need to pick something solid to base your project on... So *why not pick the most solid foundation of them all?* ***Why not pick set theory?***
 
 --------
 
