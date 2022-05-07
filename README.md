@@ -104,5 +104,39 @@ As an example: `{{{{}}{}}{{}}}` =>
 
 ![Visual representation of the version set with loops](https://raw.githubusercontent.com/RocketRace/setver/main/%7B%7B%7B%7D%7D%7B%7D%7D.png)
 
-### The To-Be-Finished
+### The SubstiTODO
 
+# So, uh, that's a lot of prose... What does this mean in practice?
+
+Rejoice! Evangelize! Be annoying to everyone you know and spread the word of SetVer! We have all been blessed by the light of the bristly-looking set braces. 
+
+SetVer is wonderfully intuitive, elegant, and versatile. It's so perfect in fact that it can even represent concepts such as branches in version control natively, using the fact that some sets compare as `NaN`. (I told you I would come back to this later!) 
+
+So here's an example of a project using SetVer efficiently (the time axis is downwards)!
+
+```
+            {}  <- initial version
+            |
+            v
+           {{}}  <- some changes
+            |
+      /-----+------\  <- diverging history
+      |            |
+      v            |
+   {{}{{}}}        |  <- changes in the first branch
+      |            v
+      |        {{}{{{}}}}  <- changes in the second branch
+      v            |
+{{}{{}}{{}{{}}}}   |  <- more changes in the first brancg
+      |            |
+      +------------/  <- branches merge back
+      |
+      v
+{{}{{}}{{}{{}}}{{{}}}}  <- version containing all previous changes
+```
+
+That's right, Git should shake in its boots because SetVer could soon replace all of version control! (That's on the roadmap, actually. "Replace all of version control.")
+
+--------
+
+SetVer is licensed under CC0. Use it however you want.
