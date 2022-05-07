@@ -4,6 +4,8 @@ The modern landscape of software development is hectic and unforgiving. Dependen
 
 --------
 
+# Setaceous Versioning (version {})
+
 > Setaceous: resembling a bristle in form or texture
 
 **Setaceous Versioning (SetVer)** is a versioning scheme designed to revolutionize the world of software development. It is based on the purest, most* foundational mathematical object, the set. Under SetVer, your projects don't get a version number — they get a **version set**. When beginning your project, assign `{}` as your version set. Each time your project updates, add a new element to your version set. Version sets can be compared very elegantly, using simply the subset relation `⊆`.
