@@ -78,11 +78,9 @@ And voilà!
 |   `Infinity` | ❌ | ❌ | ✅ | ❌ |
 |        `NaN` | ❌ | ❌ | ❌ | ❌ |
 
-This motivates the following.
-
 SetVer defines a **comparison function**, which is a function that takes as input two version sets denoted by `X` and `Y`, and returns a floating-point number representing the result of the comparison. The output value is either `0`, `1`, `Infinity`, or `NaN`, denoting `X ⊂ Y`, `X = Y`, `X ⊃ Y` and `X ⫓̸ Y` respectively.
 
-> For the technically inclined, this subset of floating-point numbers can be represented using a 1-bit significant and 1-bit mantissa, omitting the sign bit entirely. Unfortunately, binary2 is not a valid floating point format according to IEEE 754. As I cry myself to sleep, I rewatch [NaN Gates and Flip FLOPS](https://www.youtube.com/watch?v=5TFDG-y-EHs) for the seventh time.
+> For the technically inclined, this subset of floating-point numbers can be represented using a 1-bit significand and 1-bit mantissa, omitting the sign bit entirely. Unfortunately, binary2 is not a valid floating point format according to IEEE 754. As I cry myself to sleep, I rewatch [NaN Gates and Flip FLOPS](https://www.youtube.com/watch?v=5TFDG-y-EHs) for the seventh time.
 
 ## Alternative Representations
 
