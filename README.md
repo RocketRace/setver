@@ -102,7 +102,7 @@ A version set can be encoded in a picture, such that every pair of braces `{}` i
 
 As an example: `{{{{}}{}}{{}}}` => 
 
-![Visual representation of the version set with loops]()
+![Visual representation of the version set with loops](https://raw.githubusercontent.com/RocketRace/setver/main/%7B%7B%7B%7D%7D%7B%7D%7D.png)
 
 ### The To-Be-Finished
 
