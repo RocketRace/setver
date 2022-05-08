@@ -4,7 +4,7 @@ The modern landscape of software development is hectic and unforgiving. Dependen
 
 --------
 
-# Setaceous Versioning (version {})
+# Setaceous Versioning (version `{{}}`)
 
 > Setaceous: resembling a bristle in form or texture
 
@@ -35,6 +35,8 @@ Invalid:
 - `{{{}{}}{}}`
 
 The **initial version set** of a project should be `{}`. This is analogous to a "version zero" in other less elegant versioning schemes (gross).
+
+For all the mathematicians in the room, SetVer uses ZF as its model of set theory. The use of Choice is undefined behavior and can evoke nasal demons (but can also do your laundry).
 
 ## Version Comparison
 
