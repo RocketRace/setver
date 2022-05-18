@@ -141,6 +141,10 @@ So here's an example of a project using SetVer efficiently (the time axis is dow
 
 That's right, Git should shake in its boots because SetVer could soon replace all of version control! (That's on the roadmap, actually. "Replace all of version control.")
 
+## Implementations (the apostles)
+
+* [https://crates.io/crates/setver](`setver`, a 🦀 Rust 🦀 crate) by [https://github.com/kleinesfilmroellchen](kleines Filmröllchen). Unfortunately, crates.io has not yet acquiesced the revolutionary nature of of SetVer and instead oppressively forces SemVer for its crates 😔
+
 --------
 
 SetVer is licensed under CC0. Use it however you want.
