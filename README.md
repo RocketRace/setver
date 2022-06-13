@@ -143,7 +143,7 @@ That's right, Git should shake in its boots because SetVer could soon replace al
 
 ## Implementations (the apostles)
 
-* [`setver`](https://crates.io/crates/setver), a 🦀 Rust 🦀 crate by [kleines Filmröllchen](https://github.com/kleinesfilmroellchen) — Unfortunately, crates.io has not yet acquiesced the revolutionary nature of of SetVer and instead oppressively forces SemVer for its crates 😔
+* [`setver`](https://crates.io/crates/setver), a 🦀 Rust 🦀 crate by [kleines Filmröllchen](https://github.com/kleinesfilmroellchen) — Unfortunately, crates.io has not yet acquiesced the revolutionary nature of SetVer and instead oppressively forces SemVer for its crates 😔
 
 --------
 
