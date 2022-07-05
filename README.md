@@ -131,7 +131,7 @@ So here's an example of a project using SetVer efficiently (the time axis is dow
       |            v
       |        {{}{{{}}}}  <- changes in the second branch
       v            |
-{{}{{}}{{}{{}}}}   |  <- more changes in the first brancg
+{{}{{}}{{}{{}}}}   |  <- more changes in the first branch
       |            |
       +------------/  <- branches merge back
       |
